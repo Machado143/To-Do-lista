@@ -1,16 +1,16 @@
-# 📝 To-Do List Moderno
+#  To-Do List Moderno
 
 Uma aplicação web simples e elegante para gerenciar suas tarefas diárias, construída com Flask e SQLite.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- ➕ Adicionar novas tarefas
-- ✅ Marcar tarefas como concluídas
-- 🗑️ Excluir tarefas
-- 💾 Armazenamento persistente com SQLite
-- 📱 Design responsivo e moderno
+-  Adicionar novas tarefas
+-  Marcar tarefas como concluídas
+- 🗑 Excluir tarefas
+-  Armazenamento persistente com SQLite
+-  Design responsivo e moderno
 
-## 🚀 Como executar
+##  Como executar
 
 1. **Clone o repositório**
    ```bash
@@ -41,7 +41,7 @@ Uma aplicação web simples e elegante para gerenciar suas tarefas diárias, con
    http://localhost:5000
    ```
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 todo-list/
@@ -55,17 +55,17 @@ todo-list/
     └── index.html     # Template HTML
 ```
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Backend**: Flask (Python)
 - **Banco de dados**: SQLite
 - **Frontend**: HTML, CSS, JavaScript
 - **Ícones**: Font Awesome
 
-## 📸 Preview
+##  Preview
 
 Interface moderna com design glassmorphism, gradientes e animações suaves.
 
 ---
 
-Feito com ❤️ usando Flask
+Feito usando Flask 👍
